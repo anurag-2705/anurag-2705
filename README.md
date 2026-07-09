@@ -1,40 +1,96 @@
-## Hi there 👋, I'm Anurag
+# Hi 👋, I'm Anurag Bhardwaj
 
-🎓 Computer Science Undergraduate  
-💻 Aspiring Software Engineer | DSA & Web Development Learner  
-🚀 Passionate about problem-solving and building efficient solutions
+🎓 Final Year B.Tech Student (CSE - AI & ML)
 
----
-
-### 🛠️ Skills & Technologies
-
-- **Languages:** C, C++, Python
-- **Core Concepts:** Data Structures & Algorithms, OOP
-- **Web:** HTML, CSS, JavaScript,React,Node.js,Mongodb
-- **Tools:** Git, GitHub, VS Code
+I enjoy learning about Artificial Intelligence and building projects using Python. Right now I'm improving my skills in Machine Learning, Deep Learning, NLP, and Generative AI. I also practice DSA regularly.
 
 ---
 
-### 📌 What I’m Currently Working On
+## 🚀 About Me
 
-- Solving **DSA problems** (Striver Sheet & LeetCode)
-- Improving **problem-solving & logic building**
-- Learning **Web Development** step by step
-
----
-
-### 🎯 Goals
-
-- Become strong in **DSA & Competitive Programming**
-- Build real-world **projects**
-- Crack a **good tech role / internships**
+- 🎓 Final Year B.Tech Student
+- 💻 Learning AI and Software Development
+- 📚 Currently studying Machine Learning, Deep Learning, NLP, and Gen AI
+- 🧩 Solving DSA problems in Python
+- 🌱 Learning new technologies every day
+- 🎯 Looking for AI/ML internships and full-time opportunities
 
 ---
 
-### 📫 Connect With Me
+## 🛠 Skills
 
-- GitHub: [https://github.com/anurag-2705](https://github.com/anurag-2705)
+### Languages
+- Python
+- java
+- C
+- JavaScript
+
+### AI & Data
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- Scikit-learn
+- TensorFlow
+- Pandas
+- NumPy
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
 
 ---
 
-⭐ _“Consistency beats motivation.”_
+## 📖 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- Hugging Face
+- LangChain
+- MLOps
+
+---
+
+## 📂 Projects I'm Working On
+
+- AI Resume Parser
+- Sentiment Analysis
+
+More projects coming soon...
+
+---
+
+## 🎯 My Goals
+
+- Build useful AI projects
+- Improve my DSA skills
+- Learn MLOps
+- Contribute to open source
+- Get a good AI/ML job
+
+---
+
+
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/anurag-2705
+
+---
+
+⭐ *"Every day I try to learn something new."*
